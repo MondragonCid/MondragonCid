@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<h1>About Me</h1>
+<p>
+  Hello, I am Mondragon Cid Jacerrein, I am an aspiring Software Engineer, who is willing to learn on this fast changing technology. Coding is my passion.
+</p>
+
 <h1>Tech Stack</h1>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
